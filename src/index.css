@@ -1,3 +1,16 @@
+/* Main is for all the background color */
+/* Primary is for all the text we need to be highlighted */
+/* Assent is secondary color to text color */
+/* Text is main color */
+/* Line is for dividers we might need to add */
+:root{
+  --main: rgb(24,24,24);
+  --primary:orange;
+  --assent:rgb(255,255,255);
+  --text:rgb(91,153,93);
+  --line:rgb(45,45,45);
+}
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -5,9 +18,12 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: var(--main);
+  color: var(--assent);
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
