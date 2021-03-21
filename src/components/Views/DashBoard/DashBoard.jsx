@@ -11,7 +11,7 @@ import './DashBoard.css';
 export default function DashBoard() {
     return (
         <div>
-            <p>This is dash Board</p>
+            <p></p>
         </div>
     )
 }
