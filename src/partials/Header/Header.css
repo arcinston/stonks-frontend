@@ -1,7 +1,9 @@
 .logo{justify-self: left;
     height: 78px;
     width:140px ;
-    
+    position: fixed;
+    top:0px;
+    left:0px;
 }
 .Header{
     background: linear-gradient(90deg, rgba(113, 248, 79, 0.233),rgb(123,21,45));
@@ -17,7 +19,13 @@
         text-align: center;
         justify-content: end;
         width:70px;
-       padding-left: 500px;
+       padding-left: 900px;
        padding-top: 20px;
     font-size: x-large;
     }
+.ProjectName{
+     position: absolute;
+  top: 8px;
+  left: 150px;
+
+}
