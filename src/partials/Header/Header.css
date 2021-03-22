@@ -8,3 +8,13 @@
  display: flex;
  justify-content:center ;
 }
+.NavMenu{
+        display:grid;
+        grid-template-columns: repeat(3,auto);
+        grid-gap: 10px;
+        list-style: none;
+        text-align: center;
+        justify-content: end;
+        width:70px;
+       padding-left: 500px;
+    }
