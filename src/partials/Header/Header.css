@@ -16,7 +16,7 @@ nav{
     display: flex;
     justify-content:center ;
     transition: all 2s ease-in-out;
-    animation: nav-animation 25s infinite alternate;
+    animation: nav-animation 35s infinite alternate;
 }
 .NavMenu{
         display:grid;
