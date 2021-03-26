@@ -6,8 +6,10 @@ import NavbarItems from "./NavbarItems";
 
 export default function Header() {
   return (
-    <div className="Header">
-      <img src={logo} alt="logo" className="logo" />
+    <nav >
+      <div className="logo">
+      <img src={logo} alt="logo" />
+      </div>
       <h1 className="ProjectName">Stonks</h1>
       <ul className="NavMenu">
         {NavbarItems.map((item, index) => {return(
@@ -17,6 +19,6 @@ export default function Header() {
           </li>)
         })}
       </ul>
-    </div>
+    </nav>
   );
 }
