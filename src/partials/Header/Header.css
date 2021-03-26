@@ -1,14 +1,16 @@
 .logo{
     display: flex;
-    align-items: center;
+    align-items: left;
 }
 .logo>img{
-    margin-right: 550px;
+    margin-right:auto;
     border-radius: 50%;
     height: 80px;
-    width:80px ;
+    width: 80px;
+    left: 10px;
+
 }
-nav{
+nav{ display: flex;
     background: linear-gradient(90deg,#59C173,#5D26C1,#ec2F4B,#009FFF);
     background-size: 400%;
     background-position:left ;
@@ -18,7 +20,7 @@ nav{
     transition: all 2s ease-in-out;
     animation: nav-animation 35s infinite alternate;
 }
-.NavMenu{
+.NavMenu{margin-right:auto ;
         display:grid;
         grid-template-columns: repeat(3,auto);
         grid-gap: 10px;
@@ -32,12 +34,13 @@ nav{
     }
 .ProjectName{
     color:rgba(250, 245, 245, 0.986);
-     position: absolute;
   top: -5px;
-  left: 100px;
+  left: 90px;
+ margin-right: auto; 
 font-size: 1.5cm;
 }
 .nav-options{
+    
     color: rgb(231, 231, 231);
     text-decoration:none;
 padding-left: 15px;
