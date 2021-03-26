@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/stonks-frontend/static/css/main.af49f29f.chunk.css",
+    "main.css": "/stonks-frontend/static/css/main.f1c926e6.chunk.css",
     "main.js": "/stonks-frontend/static/js/main.543d96bd.chunk.js",
     "main.js.map": "/stonks-frontend/static/js/main.543d96bd.chunk.js.map",
     "runtime-main.js": "/stonks-frontend/static/js/runtime-main.88f24f1e.js",
@@ -8,14 +8,14 @@
     "static/js/2.fcf3d101.chunk.js": "/stonks-frontend/static/js/2.fcf3d101.chunk.js",
     "static/js/2.fcf3d101.chunk.js.map": "/stonks-frontend/static/js/2.fcf3d101.chunk.js.map",
     "index.html": "/stonks-frontend/index.html",
-    "static/css/main.af49f29f.chunk.css.map": "/stonks-frontend/static/css/main.af49f29f.chunk.css.map",
+    "static/css/main.f1c926e6.chunk.css.map": "/stonks-frontend/static/css/main.f1c926e6.chunk.css.map",
     "static/js/2.fcf3d101.chunk.js.LICENSE.txt": "/stonks-frontend/static/js/2.fcf3d101.chunk.js.LICENSE.txt",
     "static/media/logo.afc900b8.png": "/stonks-frontend/static/media/logo.afc900b8.png"
   },
   "entrypoints": [
     "static/js/runtime-main.88f24f1e.js",
     "static/js/2.fcf3d101.chunk.js",
-    "static/css/main.af49f29f.chunk.css",
+    "static/css/main.f1c926e6.chunk.css",
     "static/js/main.543d96bd.chunk.js"
   ]
 }
