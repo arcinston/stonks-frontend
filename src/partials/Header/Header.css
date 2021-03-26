@@ -1,6 +1,7 @@
-.logo{justify-self: left;
-    height: 78px;
-    width:140px ;
+.logo{padding-top: 1px;
+    justify-self: left;
+    height: 80px;
+    width:80px ;
     position: fixed;
     top:0px;
     left:0px;
@@ -25,9 +26,9 @@
     }
 .ProjectName{
      position: absolute;
-  top: 8px;
-  left: 150px;
-
+  top: -20px;
+  left: 100px;
+font-size: 2cm;
 }
 .nav-links{
     color: aliceblue;

@@ -1,7 +1,7 @@
 import "./Header.css";
 
 //Components;
-import logo from "./logo.jpg";
+import logo from "./logo.png";
 import NavbarItems from "./NavbarItems";
 
 export default function Header() {
